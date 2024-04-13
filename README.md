@@ -1,7 +1,6 @@
 # Space-Titanic
 
-!Space titanic(https://github.com/vishnu55510/Space-Titanic/assets/162179720/a4601b78-9281-48ae-8ba3-fad3b6724fb7)
-
+![Starship-Titanic-Cover](https://github.com/vishnu55510/Space-Titanic/assets/162179720/7eff1929-d23d-4928-8d2f-e8bedeaef177)
 
 ---
 
