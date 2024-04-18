@@ -29,16 +29,7 @@ The main objectives of this project are as follows:
 2. Develop predictive models to predict whether a passenger will be transported to another dimension.
 3. Provide insights and recommendations based on the analysis.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vishnu55510/spaceship-titanic-passenger-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd spaceship-titanic-passenger-analysis
-   ```
-3. Open the Jupyter notebook (`spaceship_titanic_passenger_analysis.ipynb`) to view the analysis and modeling process.
+
 
 ## Technologies Used
 - Python
